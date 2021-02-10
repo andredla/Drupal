@@ -1,0 +1,8 @@
+.dx8_dev_alerta { position: absolute; display: flex; width: 100%; height: 100%; justify-content: center; color: #9963AD; background-color: #EBD4EF; z-index: 9999; }
+.dx8_dev_alerta span { position: relative; display: flex; align-self: center; justify-content: center; }
+/*
+html .dx8_dev_adm_toolbar { padding-top: inherit !important;}
+.dx8_dev_hide {display: none;}
+*/
+.dx8_dev {position: fixed; display: block; padding: 10px; top: 0; left: 0px; height: 100%; color: rgb(221, 221, 221); background-color: rgb(15, 15, 15); z-index: 9999;}
+.dx8_dev_wrap {position: relative; display: block; height: 100%; overflow: auto;}
