@@ -1,6 +1,5 @@
 # Drupal
 
-## What it is:
 It is a plugin for Firefox and Chrome.
 
 ## What it do:
