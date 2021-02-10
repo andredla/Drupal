@@ -7,6 +7,7 @@ It hides the Top and Bottom admin bars, and when editing a component it lists th
 
 ## How to use:
 ```
-Do **not require** to **install**.
+Do not require to install.
+
 Just download and use as temporary extension.
 ```
